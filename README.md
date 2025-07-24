@@ -32,4 +32,62 @@ Le modèle a ensuite été sauvegardé (`model.pkl`) et intégré dans une appli
 
 ---
 
-## 🗂️ Structure du projet
+---
+
+## ⚙️ Technologies utilisées
+
+- **Python 3**
+- **Pandas**, **Scikit-learn**, **Matplotlib**, **Seaborn**
+- **Flask** (déploiement web)
+- **Jupyter Notebook**
+- **Git / GitHub**
+
+---
+
+## 🌐 Application Web
+
+Une interface simple permet à l'utilisateur de :
+
+- Saisir les caractéristiques d’un demandeur de prêt.
+- Obtenir instantanément la **décision prédite** (accord ou refus).
+- Visualiser la probabilité associée à la prédiction.
+
+Cette interface peut facilement être adaptée pour un usage réel dans un contexte bancaire ou éducatif.
+
+---
+
+## 📦 Installation & Lancement
+
+1. Cloner le dépôt :
+
+```bash
+git clone https://github.com/votre-utilisateur/loan-prediction-app.git
+cd loan-prediction-app
+```
+
+2. Installer les dépendances :
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Lancer l’application Flask :
+
+```bash
+cd Application
+python app.py
+```
+
+Accéder à l’application sur : http://localhost:5000
+
+## 📊 Rapport & Analyse
+
+Le RapportDeProjet.pdf contient :
+
+    Une analyse exploratoire des données (corrélations, outliers, distributions)
+
+    Une explication des choix de modélisation
+
+    Une comparaison des performances
+
+    Des recommandations pour améliorer le modèle ou l’adapter à de nouvelles données
