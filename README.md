@@ -1,4 +1,4 @@
-# 💳 Prédiction des Décisions de Crédit Bancaire avec Machine Learning
+# 💳 Prédiction des Décisions de Crédit Bancaire grace au Machine Learning
 
 ## 🎯 Introduction
 
@@ -29,8 +29,6 @@ Après entraînement et évaluation, le **Decision Tree Classifier** a été ret
 - Sa capacité à **gérer les interactions non linéaires** entre les variables explicatives.
 
 Le modèle a ensuite été sauvegardé (`model.pkl`) et intégré dans une application web développée avec **Flask**.
-
----
 
 ---
 
@@ -84,10 +82,7 @@ Accéder à l’application sur : http://localhost:5000
 
 Le RapportDeProjet.pdf contient :
 
-    Une analyse exploratoire des données (corrélations, outliers, distributions)
-
-    Une explication des choix de modélisation
-
-    Une comparaison des performances
-
-    Des recommandations pour améliorer le modèle ou l’adapter à de nouvelles données
+- **Une analyse exploratoire des données (corrélations, outliers, distributions)**
+- **Une explication des choix de modélisation**
+- **Une comparaison des performances**
+- **Des recommandations pour améliorer le modèle ou l’adapter à de nouvelles données**
