@@ -22,7 +22,7 @@ Trois modèles de classification ont été comparés :
 - **K-Nearest Neighbors**
 - **Decision Tree Classifier**
 
-Après entraînement et évaluation, le **Decision Tree Classifier** a été retenu avec une **précision de 92%**, surpassant les autres modèles. Ce choix s’explique par :
+Après entraînement et évaluation, le **Decision Tree Classifier** a été retenu avec une **précision de 87%**, surpassant les autres modèles. Ce choix s’explique par :
 
 - Sa **performance élevée** sur nos données.
 - Sa **simplicité d’interprétation**, essentielle dans le secteur bancaire où la transparence du modèle est souvent requise.
